@@ -67,7 +67,7 @@ local ORANGE = Color3.fromRGB(255, 155, 74)
 local ACCENTS = { BLUE, CYAN, PINK, LIME, PURPLE, ORANGE }
 
 -- logo / launcher icon (decal uploaded by the hub owner)
-local LOGO = "rbxassetid://98853113630447"
+local LOGO = "rbxassetid://71302399240706"
 
 -- dark text on bright accents, paper text on the dark blue one
 local function readableOn(c)
